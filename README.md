@@ -9,7 +9,6 @@ This repository is the official implementation of Predicting Credit Card Default
 - [License](#license)
 - [Citation](#citation)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Installation
 
