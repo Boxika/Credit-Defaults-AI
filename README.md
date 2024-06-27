@@ -2,12 +2,9 @@
 This repository is the official implementation of Predicting Credit Card Defaulting Using Machine Learning
 
 ## Table of Contents
-- [Installation](#installation)
 - [Dataset](#dataset)
 - [Training and Evaluation](#training-and-evaluation)
 - [Results](#results)
-- [License](#license)
-- [Citation](#citation)
 - [Contributing](#contributing)
 
 ## Dataset
