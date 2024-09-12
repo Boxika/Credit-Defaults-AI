@@ -4,9 +4,6 @@ This repository is the official implementation of Predicting Credit Card Default
 ## Table of Contents
 - [Dataset](#dataset)
 - [Training and Evaluation](#training-and-evaluation)
-- [Results](#results)
-- [Contributing](#contributing)
-
 ## Dataset
 
 The dataset used in this project is the [Default of Credit Card Clients Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) provided by the UCI Machine Learning Repository.
